@@ -1,4 +1,4 @@
-Architecture II 2015, Coursework 1
+Architecture II Coursework
 ==================================
 
 Goals of this coursework
